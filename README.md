@@ -1,4 +1,4 @@
-# ✋🏼Hi! I'm ekiden
+# Hi! I'm ekiden
 
 <p align="left">
   <a href="https://github.com/ek1den2"><img src="https://komarev.com/ghpvc/?username=ek1den2" /></a>
