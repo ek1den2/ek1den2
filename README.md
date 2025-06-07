@@ -15,6 +15,8 @@ https://komoribocchi.booth.pm/
   <a fref="https://github.com/ashutosh00710/github-readme-activity-graph"><img height="150px" src="https://github-readme-activity-graph.vercel.app/graph?username=ek1den2&bg_color=222222&color=ffb74d&line=ffd95b&point=ffa726&area=true&radius=14&area_color=ffd95b&hide_title=true&days=20&hide_border=true" /></a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ek1den2&theme=slateorange)
+
 ## Tools
 
 <p align="left">
