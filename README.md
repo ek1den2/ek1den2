@@ -13,4 +13,6 @@
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,blender,unity,anaconda,pytorch,opencv,vscode,pycharm,photoshop,cpp,git,github,unrealengine,docker,notion,ubuntu,latex&theme=dark&perline=18)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,blender,unity,anaconda,pytorch,opencv,vscode,pycharm,photoshop,cpp,git,github,unrealengine,docker,notion,ubuntu,latex&theme=dark&perline=18" alt="My Skills" /></a>
+</p>
