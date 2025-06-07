@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=ek1den2&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=great-gatsby&bg_color=222222" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ek1den2&theme=ayu_mirage&utcOffset=9" /></a>
+  <a fref="https://github.com/ashutosh00710/github-readme-activity-graph"><img height="175px" src="https://github-readme-activity-graph.vercel.app/graph?username=ek1den2&bg_color=222222&color=ffb74d&line=ffd95b&point=ffa726&area=true&radius=14&area_color=ffd95b&hide_title=true&days=20" /></a>
 </p>
 
 ## Tools
