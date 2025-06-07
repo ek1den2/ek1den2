@@ -7,5 +7,7 @@
 
 ### My Activities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ek1den2&show_icons=true&theme=great-gatsby)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ek1den2&repo=SKBoneGen&theme=great-gatsby)](https://github.com/ek1den2/SKBoneGen)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ek1den2&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=great-gatsby" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="github stats" height="150px" src="https://github-readme-activity-graph.vercel.app/graph?username=ek1den2&bg_color=000000&color=ffa726&line=ffd95b&point=ffa726&custom_title=Contribution&radius=8&height=350&hide_title=true" /></a>
+</p>
