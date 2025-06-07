@@ -7,7 +7,17 @@
 
 ### My Activities
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ek1den2&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=great-gatsby&bg_color=222222" /></a>
-  <a href
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ek1den2&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=great-gatsby&bg_color=222222" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,blender&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
