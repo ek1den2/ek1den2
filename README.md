@@ -16,9 +16,12 @@ https://komoribocchi.booth.pm/
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="175px" src="https://ek1den2.github.io/github-profile-summary-cards/cards/profile-details.svg?theme=original" /></a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ek1den2&theme=gruvbox" alt="Profile details badge"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ek1den2&theme=onedark&row=1&column=6&no-frame=true" alt="ek1den2 trophies"/>
+</p>
 
 
 ## Tools
