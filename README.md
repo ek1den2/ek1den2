@@ -16,7 +16,7 @@ https://komoribocchi.booth.pm/
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ek1den2&theme=default" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="175px" src="https://ek1den2.github.io/github-profile-summary-cards/cards/profile-details.svg?theme=original" /></a>
 </p>
 
 
