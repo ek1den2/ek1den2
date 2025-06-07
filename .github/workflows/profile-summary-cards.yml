@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: ek1den2/github-profile-summary-cards@main
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.SUMMARY_TOKEN }}
         with:
