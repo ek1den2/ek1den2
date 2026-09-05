@@ -23,5 +23,5 @@ https://komoribocchi.booth.pm/
 
 <p align="left">
   <a href="https://github.com/tandpfun/skill-icons">
-  <img src="https://skillicons.dev/icons?i=python,blender,unity,pytorch,vscode,cpp&theme=dark" alt="My Skills" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,blender,unreal,unity,python,pytorch,vscode&theme=dark" alt="My Skills" /></a>
 </p>
